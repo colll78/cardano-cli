@@ -1,0 +1,8 @@
+https://github.com/colll78/cardano-ledger.git codex/cip-160-receiving
+https://github.com/colll78/plutus.git codex/cip-160-receiving-v4
+https://github.com/colll78/cardano-addresses.git codex/cip-160-protected-addresses
+https://github.com/colll78/cardano-keys.git codex/cip-160-ledger-bounds
+https://github.com/colll78/cardano-config.git codex/cip-160-ledger-bounds
+https://github.com/colll78/ouroboros-consensus.git codex/cip-160-receiving-5x
+https://github.com/colll78/cardano-api.git codex/cip-160-receiving
+https://github.com/colll78/dns.git codex/dns-time-hourglass
